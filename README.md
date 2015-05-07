@@ -6,7 +6,7 @@ To run this script, the following should be done:
 
 * Download the scripts (plit1.R, plot2.R, plot3.R, plot4.R) to a local directory
 * Download the date from https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip
-* Extract the data into the workind directory
+* Extract the data to the working directory
 * Run the scripts
 
 
