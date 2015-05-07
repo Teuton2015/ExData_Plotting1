@@ -1,4 +1,4 @@
-## Exploratory Data Analysis - Project Course 1
+## Exploratory Data Analysis - Course Project 1
 
 This forked repository contains all the codes I have written for the assignment "Course Project 1" of the "Exploratory Data Analysis" course of the Data Science Specialization offered by Johns Hopkins University on Coursera in May 2015.
 
